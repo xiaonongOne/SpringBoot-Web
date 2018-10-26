@@ -10,6 +10,14 @@ import javax.servlet.ServletRequest;
 import javax.servlet.ServletResponse;
 import javax.servlet.http.HttpServletRequest;
 
+/**  
+* <p>Title: MyFilter.java</p>  
+* <p>Description: 自定义过滤器</p>  
+* <p>Copyright: Copyright (c) 2018</p>  
+* @author Xiao Nong
+* @date 2018年10月26日  
+* @version 1.0  
+*/  
 public class MyFilter implements Filter{
 
 	@Override

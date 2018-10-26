@@ -6,6 +6,14 @@ import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
 
+/**  
+* <p>Title: User.java</p>  
+* <p>Description: 用户类</p>  
+* <p>Copyright: Copyright (c) 2018</p>  
+* @author Xiao Nong
+* @date 2018年10月26日  
+* @version 1.0  
+*/  
 @Entity
 public class User  implements Serializable {
 

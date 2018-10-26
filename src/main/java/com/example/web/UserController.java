@@ -8,9 +8,15 @@ import org.springframework.web.bind.annotation.RestController;
 import com.example.bean.User;
 import com.example.bean.UserRepository;
 
-/**
- * Author 601278 Date 2018/9/28、15:19 Version 1.0
- **/
+
+/**  
+* <p>Title: UserController.java</p>  
+* <p>Description:用户Controller类 </p>  
+* <p>Copyright: Copyright (c) 2018</p>  
+* @author Xiao Nong
+* @date 2018年10月26日  
+* @version 1.0  
+*/  
 @RestController
 @RequestMapping("/user")
 public class UserController {

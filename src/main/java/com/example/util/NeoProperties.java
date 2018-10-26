@@ -3,6 +3,14 @@ package com.example.util;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Component;
 
+/**  
+* <p>Title: NeoProperties.java</p>  
+* <p>Description: </p>  
+* <p>Copyright: Copyright (c) 2018</p>  
+* @author Xiao Nong
+* @date 2018年10月26日  
+* @version 1.0  
+*/  
 @Component
 public class NeoProperties {
 
