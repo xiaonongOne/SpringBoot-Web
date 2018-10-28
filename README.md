@@ -1,2 +1,2 @@
-# springbootdemo
-简单搭建springboot案例
+# SpringBoot-Web
+简单搭建SpringBoot-Web案例
