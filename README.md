@@ -1,7 +1,10 @@
 # SpringBoot-Web
 简单搭建SpringBoot-Web案例
 
-# 用户表表结构，用demo时需药创建用户表
+# 用户表表结构，用demo时需要创建用户表
+
+
+
 CREATE TABLE `user` (
   `id` bigint(20) NOT NULL AUTO_INCREMENT COMMENT '主键',
   `nick_name` varchar(255) DEFAULT NULL COMMENT '昵称',
